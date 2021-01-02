@@ -1,0 +1,8 @@
+public class Main { 
+public static void main(String[] args) { 
+String s = "vnsh"; 
+System.out.println(s.contains("vn")); 
+System.out.println(s.contains("sh")); 
+System.out.println(s.contains("an")); 
+}
+}
