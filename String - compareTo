@@ -1,0 +1,10 @@
+public class Main {
+public static void main(String[] args) {
+String s1 = "vnsh"; 
+String s2 = "vnsh"; 
+System.out.println(s1.compareTo(s2));
+}
+}
+
+
+
